@@ -1,14 +1,13 @@
 # Markdown Previewer
 A simple project to learn React.
 
----
-
+&nbsp;
 
 ###### Write your markdown and see it rendered live on the page.
 
-[demo](http://markdown-previewer.surge.sh/)
+[demo](http://markdown-previewer.surge.sh/) hosted on [Surge.sh](http://surge.sh/)
 
----
+&nbsp;
 
 ###### Features:
 
